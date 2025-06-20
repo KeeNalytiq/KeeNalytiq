@@ -1,67 +1,96 @@
-<div style="font-family: system-ui, sans-serif;">
+<div align="center">
 
-<h2 align="center"> Hi 👋 I'm Keeistu M S </h2>
+# 👋 Hey there! I'm **Keeistu Saravanan**
 
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/9acfd9157622659.63803ddc5d5e8.gif)
+![banner](https://mir-s3-cdn-cf.behance.net/project_modules/1400/9acfd9157622659.63803ddc5d5e8.gif)
 
-<h3 align="center">Biotech × AI Enthusiast | Machine Learning | Sustainable Innovation | Biomedical R&D</h3>
-
-<p>
-A passionate learner with a background in biotechnology and a growing interest in artificial intelligence, machine learning, and sustainable technologies. Self-motivated and research-driven, focused on applying computational tools to solve real-world challenges in healthcare, bioengineering, and environmental sustainability. Constantly exploring new scientific domains, data techniques, and AI tools to bridge the gap between life sciences and modern technology.
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keeistu&label=Profile%20views&color=0e75b6&style=flat" alt="Keeistu" /> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 Currently learning more about **Deep Learning**, **Bioinformatics**, and **Sustainable Biomaterials**  
-- 💬 Ask me about **Biotech + AI applications**, **ML models**, and **Research Tools**  
-- 📫 Reach me at: **keeistums@gmail.com**  
-- 🎯 Goal: Building solutions that integrate biology, code, and sustainability  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/keeistu-ms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keeistu-ms" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pandas-1.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keeistu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="keeistu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keeistu&show_icons=true&locale=en&theme=tokyonight" alt="keeistu" /></p>
-
-<p><img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=keeistu&bg_color=ffffff&color=4c51bf&line=4c51bf&point=1d1d1d&area=true&hide_border=false" alt="keeistu" /></p>
+### 🧬 Biotech × AI Enthusiast | Machine Learning | Sustainable Innovation | Bioengineering
 
 </div>
+
+---
+
+<p align="center">
+  I’m a curious mind blending the worlds of biology and technology to build sustainable, data-driven, and meaningful solutions. With a strong base in biotechnology and evolving skills in artificial intelligence, machine learning, and data science — I love exploring how code can power life-saving innovations and greener technologies. Forever learning, researching, and tinkering across the edge where life meets logic.
+</p>
+
+---
+
+### 🔍 What I’m Up To
+- 🌱 Currently diving deeper into **Deep Learning**, **Bioinformatics**, and **Sustainable Biomaterials**
+- 🧪 Passionate about **Biotech + AI**, **Life Science Data**, and **R&D for real-world impact**
+- 💡 Exploring cutting-edge trends in AI, Biomedical Engineering, and Environmental Tech
+- 💬 Let’s chat about **bio-AI intersections**, **ML modeling**, or **anything cool in science & tech**
+- 📫 How to reach me: **keeistums@gmail.com**
+- 🌐 [My Portfolio (Coming Soon)]()
+
+---
+
+## ⚙️ I Code In
+
+<p>
+  <img height="50" src="https://img.icons8.com/color/48/python.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/c-programming.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/tensorflow.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/pandas.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/numpy.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/css3.png"/>
+</p>
+
+---
+
+## 🧰 Tools I Use
+
+<p>
+  <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/pycharm.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/git.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/jupyter.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/notion--v1.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/tableau-software.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/adobe-photoshop.png"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/keeistu-ms/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:keeistums@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keeistu&show_icons=true&theme=tokyonight" alt="stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeistu&layout=compact&theme=tokyonight" alt="top langs"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keeistu&bg_color=1e1e1e&color=56f3a1&line=56f3a1&point=ffffff&area=true&hide_border=false"/>
+</p>
+
+---
+
+## 💻 System Setup
+
+<p>
+  <img height="30" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/NVIDIA-GeForce-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=56F3A1&center=true&vCenter=true&width=435&lines=Exploring+Biotech+%E2%9C%85;Building+with+AI+🧠;Growing+every+day+🌱;Let's+connect!+🤝" alt="Typing SVG" />
+</p>
