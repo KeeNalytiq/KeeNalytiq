@@ -5,7 +5,7 @@
 A passionate Biotech × AI enthusiast with a strong foundation in biotechnology and growing expertise in machine learning, data science, and sustainable innovation. Self-motivated and continuously learning, with experience in applying computational tools to explore biological systems, analyze complex data, and develop intelligent, impactful solutions. Interested in bridging the gap between life sciences and artificial intelligence to address challenges in healthcare, environmental sustainability, and bioengineering, while staying current with emerging technologies and research trends.
 </p>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 
 ### I code in
