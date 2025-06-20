@@ -1,5 +1,5 @@
 <h2 align="center"> Hi ! i'm Keeistu Saravanan 👋 </h2>
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <h3 align="center">AI for Life Sciences | Data Science Enthusiast | Bioengineering</h3>
 <p>
 A passionate Biotech × AI enthusiast with a strong foundation in biotechnology and growing expertise in machine learning, data science, and sustainable innovation. Self-motivated and continuously learning, with experience in applying computational tools to explore biological systems, analyze complex data, and develop intelligent, impactful solutions. Interested in bridging the gap between life sciences and artificial intelligence to address challenges in healthcare, environmental sustainability, and bioengineering, while staying current with emerging technologies and research trends.
