@@ -1,4 +1,6 @@
-                                                                                                  ## Hello 👋 It's me Keeistu Saravanan
+<h2 align="center"> Hi ! i'm Keeistu Saravanan 👋 </h2>
+---
+<h3 align="center">AI for Life Sciences | Data Science Enthusiast | Bioengineering</h3>
 
 Biotech × AI enthusiast working on sustainable materials, biomedical innovations, and machine learning-powered tools that create real-world impact. With a foundation in biotechnology and growing expertise in AI/ML, I focus on applying data-driven approaches to solve challenges in healthcare, bioengineering, and sustainability. From developing nanomaterial-reinforced bioplastics to building intelligent research systems, I aim to bridge science and technology to create meaningful, future-ready solutions.
 
