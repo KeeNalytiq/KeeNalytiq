@@ -1,9 +1,9 @@
 <h2 align="center"> Hi ! i'm Keeistu Saravanan 👋 </h2>
----
+
 <h3 align="center">AI for Life Sciences | Data Science Enthusiast | Bioengineering</h3>
-
-Biotech × AI enthusiast working on sustainable materials, biomedical innovations, and machine learning-powered tools that create real-world impact. With a foundation in biotechnology and growing expertise in AI/ML, I focus on applying data-driven approaches to solve challenges in healthcare, bioengineering, and sustainability. From developing nanomaterial-reinforced bioplastics to building intelligent research systems, I aim to bridge science and technology to create meaningful, future-ready solutions.
-
+<p>
+A passionate biotech × AI enthusiast with a strong foundation in biotechnology and a growing skill set in machine learning, data science, and sustainable innovation. Experienced in developing intelligent systems, eco-friendly bioplastics, and biomedical scaffolds through interdisciplinary research. Self-driven and continuously learning, with hands-on project experience and certifications in AI/ML and data analysis. Deeply interested in applying computational tools to solve real-world challenges in healthcare, environmental sustainability, and bioengineering, while staying updated with emerging technologies and trends at the intersection of science and AI.
+</p>
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
