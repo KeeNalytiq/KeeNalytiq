@@ -1,6 +1,8 @@
 ## Hello 👋 It's me Keeistu Saravanan
 
-Biotechnology with specialised AI-ML
+Biotech × AI enthusiast working on sustainable materials, biomedical innovations, and machine learning-powered tools that create real-world impact. With a foundation in biotechnology and growing expertise in AI/ML, I focus on applying data-driven approaches to solve challenges in healthcare, bioengineering, and sustainability. From developing nanomaterial-reinforced bioplastics to building intelligent research systems, I aim to bridge science and technology to create meaningful, future-ready solutions.
+
+
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 
