@@ -2,7 +2,7 @@
 
 <h3 align="center">AI for Life Sciences | Data Science Enthusiast | Bioengineering</h3>
 <p>
-A passionate biotech × AI enthusiast with a strong foundation in biotechnology and a growing skill set in machine learning, data science, and sustainable innovation. Experienced in developing intelligent systems, eco-friendly bioplastics, and biomedical scaffolds through interdisciplinary research. Self-driven and continuously learning, with hands-on project experience and certifications in AI/ML and data analysis. Deeply interested in applying computational tools to solve real-world challenges in healthcare, environmental sustainability, and bioengineering, while staying updated with emerging technologies and trends at the intersection of science and AI.
+A passionate Biotech × AI enthusiast with a strong foundation in biotechnology and growing expertise in machine learning, data science, and sustainable innovation. Self-motivated and continuously learning, with experience in applying computational tools to explore biological systems, analyze complex data, and develop intelligent, impactful solutions. Interested in bridging the gap between life sciences and artificial intelligence to address challenges in healthcare, environmental sustainability, and bioengineering, while staying current with emerging technologies and research trends.
 </p>
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
