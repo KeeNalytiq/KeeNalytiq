@@ -82,6 +82,10 @@
 
 ---
 
+<p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=56F3A1&center=true&vCenter=true&width=435&lines=Exploring+Biotech+%E2%9C%85;Building+with+AI+🧠;Growing+every+day+🌱;Let's+connect!+🤝" alt="Typing SVG" />
 </p>
