@@ -15,7 +15,9 @@
 </p>
 
 ---
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="20%">
+</p>
 
 ### 🔍 What I’m Up To
 - 🌱 Currently diving deeper into **Deep Learning**, **Bioinformatics**, and **Sustainable Biomaterials**
