@@ -37,7 +37,7 @@
   <img height="50" src="https://img.icons8.com/color/48/python.png"/>
   <img height="50" src="https://img.icons8.com/color/48/c-programming.png"/>
   <img height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000"/>
   <img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
   <img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
   <img height="50" src="https://img.icons8.com/color/48/css3.png"/>   
@@ -52,19 +52,19 @@
   <img height="40" src="https://img.icons8.com/color/48/pycharm.png"/>
   <img height="40" src="https://img.icons8.com/color/48/git.png"/>
   <img height="40" src="https://img.icons8.com/color/48/tensorflow.png"/>
-  <img height="40" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"/>
+  <img height="40" src="https://img.icons8.com/?size=48&id=J0SgMWzAxqFj&format=png&color=000000"/>
   <img height="40" src="https://img.icons8.com/color/48/notion--v1.png"/>
   <img height="40" src="https://img.icons8.com/color/48/numpy.png"/>
   <img height="40" src="https://img.icons8.com/color/48/pandas.png"/>
   <img height="40" src="https://img.icons8.com/color/48/tableau-software.png"/>
   <img height="40" src="https://img.icons8.com/color/48/adobe-photoshop.png"/>
-  <img height="40" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>
-  <img height="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"/>
-  <img height="40" src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000"/>
-  <img height="40" src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000"/>
-  <img height="40" src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000"/>
+  <img height="40" src="https://img.icons8.com/?size=40&id=lOqoeP2Zy02f&format=png&color=000000"/>
+  <img height="40" src="https://img.icons8.com/?size=40&id=zfHRZ6i1Wg0U&format=png&color=000000"/>
+  <img height="40" src="https://img.icons8.com/?size=40&id=UECmBSgBOvPT&format=png&color=000000"/>
+  <img height="40" src="https://img.icons8.com/?size=40&id=Rffi8qeb2fK5&format=png&color=000000"/>
+  <img height="40" src="https://img.icons8.com/?size=40&id=O6SWwpPIM0GB&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=40&id=ewGOClUtmFX4&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=40&id=qV-JzWYl9dzP&format=png&color=000000"/>
 </p>
 
 ---
